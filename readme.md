@@ -54,14 +54,6 @@ We then trained the model to classify reviews into these sentiment categories.
    - **Model Optimization**: Experiment with larger models like `RoBERTa` or lightweight transformer models like `DistilBERT`.
    - **Interactive Analysis**: Combine sentiment analysis with metadata insights (e.g., trends based on product categories).
 
-**Impact**: Implementing this model can help businesses monitor customer feedback, identify trends, and make informed decisions to enhance product offerings and customer satisfaction.
-
-**Next Steps**: To improve performance, especially for neutral sentiments, future work could involve:
-
-- Incorporating more diverse training data
-- Exploring advanced fine-tuning techniques
-- Utilizing ensemble methods
-
 ## Resources
 
 For further reading on BERT-based sentiment analysis, consider the following research papers:
