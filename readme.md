@@ -97,4 +97,4 @@ The project repository includes:
 
 ## Video Recording
 
-A short video overview of the project is available [here](#).
+A short video overview of the project is available [here](https://drive.google.com/file/d/13t_-dMDWIgFcdYLLLMVoAfq_fA8B78Bu/view?usp=sharing).
