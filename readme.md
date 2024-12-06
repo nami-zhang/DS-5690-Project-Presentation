@@ -40,6 +40,8 @@ We then trained the model to classify reviews into these sentiment categories.
    - Neutral sentiment lacks strong sentiment signals, making it harder to classify accurately.
 4. **Limited Language Coverage**:
    - The dataset and model are primarily in English, limiting the model’s utility for non-English reviews.
+  
+**Permissions**: This project is licensed under the MIT License. 
 
 ## Critical Analysis
 
